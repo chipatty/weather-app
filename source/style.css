@@ -76,6 +76,11 @@ footer .bottom-high-temp {
   text-decoration: none;
 }
 
+.github {
+  display: block;
+  text-align: center;
+  margin: 1%;
+}
 #celsius:hover {
   text-decoration: underline;
 }
